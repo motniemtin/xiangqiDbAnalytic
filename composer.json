@@ -1,0 +1,17 @@
+{
+    "name": "motniemtin/xiangqidbanalytic",
+    "description": "Tự động tạo video bình luận các ván đấu end game cờ tướng",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lam Nguyen",
+            "email": "motniemtin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Motniemtin\\xiangqiDbAnalytic\\": "src/"
+        }
+    }
+}
